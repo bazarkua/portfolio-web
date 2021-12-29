@@ -6,7 +6,7 @@ export const projects = [
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 0,
+    id: 1,
   },
   {
     title: 'E-Commerce',
@@ -15,7 +15,7 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 1,
+    id: 2,
   },
   {
     title: 'WebRTC App',
@@ -24,7 +24,7 @@ export const projects = [
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Unichat',
@@ -33,7 +33,7 @@ export const projects = [
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 3,
+    id: 4,
   },
 ];
 

@@ -1,6 +1,12 @@
 import { IoIosArrowDropdown } from 'react-icons/io';
 import styled from 'styled-components';
 
+
+
+
+export const Span = styled.span`
+  font-size: 3rem;
+`;
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(5, 1fr);
